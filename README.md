@@ -1,5 +1,5 @@
-# IEEEXTREME
-IEEExtreme practice by ENJYeNiER
+# IEEEXtreme Practice :100:
+IEEEXtreme practice solutions by **ENJYeNiER** Team
 
 ## Tasks 
 
