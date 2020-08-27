@@ -3,4 +3,4 @@ IEEEXtreme practice solutions by **ENJYeNiER** Team
 
 ## Tasks 
 
-The tasks are located [practice environment](https://csacademy.com/ieeextreme-practice/tasks/)
+The tasks are located [CSAcademy](https://csacademy.com/ieeextreme-practice/tasks/)
